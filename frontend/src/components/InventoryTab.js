@@ -1,0 +1,1 @@
+// InventoryTab component code here

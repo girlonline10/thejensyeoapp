@@ -1,0 +1,1 @@
+// BarcodeScanner component code here
